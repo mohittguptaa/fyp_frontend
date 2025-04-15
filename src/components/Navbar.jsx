@@ -29,7 +29,7 @@ const Navbar = () => {
     { path: "/my-job", title: "My Jobs" },
     { path: "/salary", title: "Salary estimate" },
     { path: "/post-job", title: "Post A Job" },
-    { path: "/Resume", title: "Build Your Resume" },
+    { path: "https://resume-builder-frontend-cjjk.vercel.app", title: "Build Your Resume" },
   ];
   return (
     <header className="container px-4 mx-auto max-w-screen-2xl xl:px-24">
